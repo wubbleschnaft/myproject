@@ -6,8 +6,6 @@ Tests for the 'polls' application.  Call using:
     ./manage.py test polls
 
 '''
-from django.test import TestCase
-from test_polls import *
 
 
 # called automatically by ./manage.py test; no harm though.
